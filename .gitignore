@@ -1,0 +1,11 @@
+.idea
+out
+*.out
+Logs
+Results
+target
+*.iml
+log
+*.patch
+/artifacts/
+/META-INF/
